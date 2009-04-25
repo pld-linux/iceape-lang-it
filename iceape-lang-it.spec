@@ -4,12 +4,12 @@
 Summary:	Italian resources for Iceape
 Summary(pl.UTF-8):	Włoskie pliki językowe dla Iceape
 Name:		iceape-lang-%{_lang}
-Version:	1.1.15
-Release:	2
+Version:	1.1.16
+Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized/seamonkey-%{version}.%{_lare}.langpack.xpi
-# Source0-md5:	e9cad4321dc9c50924547ca1cb2c4d23
+# Source0-md5:	30722454240a093bf9b56896adfd0158
 Source1:	http://www.mozilla-enigmail.org/download/release/0.95/enigmail-%{_lare}-0.95.xpi
 # Source1-md5:	613bba3e4d5586b8d02fe6882e0066f1
 Source2:	gen-installed-chrome.sh
